@@ -5,3 +5,4 @@ A Ruby script that downloads a scheduled backup files from salesforce. The scrip
 
 see also: http://stackoverflow.com/questions/10178279/how-to-automate-download-of-weekly-export-service-files
 
+Code forked from https://github.com/carojkov/salesforce-export-downloader
